@@ -108,7 +108,6 @@
       "header": {
         "type": "header",
         "settings": {
-          "logo": "shopify:\/\/shop_images\/XD_Black.png",
           "logo_max_width": 60,
           "menu": "main-menu",
           "secondary_menu": "",
@@ -190,7 +189,7 @@
           "popup-1"
         ],
         "settings": {
-          "enable_popup": true,
+          "enable_popup": false,
           "image_position": "center",
           "color_text": "#ffffff",
           "color_text_button": "#1c2232",
