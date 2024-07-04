@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "cf7c830a-afb5-4676-aad3-b87aae75e49a": {
@@ -14,7 +23,7 @@
         "template--17830063931704__cf7c830a-afb5-4676-aad3-b87aae75e49a-1688059994d3eed6d8-1": {
           "type": "subheading",
           "settings": {
-            "subheading": "<p>Feature seamless auto-playing hero videos in this space.</p>",
+            "subheading": "<p>Feature seamless auto-playing hero videos in this space.<\/p>",
             "text_max_width": 40
           }
         }
@@ -28,17 +37,17 @@
         "mobile_height": 100,
         "video_url": "",
         "alignment": "left_center",
-        "content_order": "second_first_third",
+        "content_order": "first_second_third",
         "content_overlay_width": 50,
         "content_overlay_height": 50,
-        "content_overlay_color": "transparent",
+        "content_overlay_color": "rgba(0,0,0,0)",
         "content_overlay_opacity": 0,
         "overlay_shadow": 20,
         "color_text": "#ffffff",
-        "color_background_button": "transparent",
-        "color_border_button": "transparent",
+        "color_background_button": "rgba(0,0,0,0)",
+        "color_border_button": "rgba(0,0,0,0)",
         "color_text_button": "#181818",
-        "color_overlay": "#000",
+        "color_overlay": "#000000",
         "overlay_opacity": 30
       }
     },
@@ -62,8 +71,8 @@
           "type": "slide",
           "settings": {
             "link": "",
-            "heading": "<p>Heading</p>",
-            "subheading": "<p>Use this section to make a bold statement</p>",
+            "heading": "<p>Heading<\/p>",
+            "subheading": "<p>Use this section to make a bold statement<\/p>",
             "shop_text": "Learn more",
             "alignment": "center_center",
             "content_order": "second_first_third",
@@ -72,13 +81,13 @@
             "overlay_shadow": 10,
             "color_text": "#ffffff",
             "color_text_button": "#181818",
-            "color_background_button": "#FFFFFF",
-            "color_border_button": "#FFFFFF",
-            "content_overlay_color": "transparent",
+            "color_background_button": "#ffffff",
+            "color_border_button": "#ffffff",
+            "content_overlay_color": "rgba(0,0,0,0)",
             "content_overlay_opacity": 30,
             "content_overlay_width": 50,
             "content_overlay_height": 50,
-            "color_overlay": "#000",
+            "color_overlay": "#000000",
             "overlay_opacity": 30
           }
         },
@@ -86,8 +95,8 @@
           "type": "slide",
           "settings": {
             "link": "",
-            "heading": "<p>Heading</p>",
-            "subheading": "<p>Use this section to make a bold statement</p>",
+            "heading": "<p>Heading<\/p>",
+            "subheading": "<p>Use this section to make a bold statement<\/p>",
             "shop_text": "Learn more",
             "alignment": "center_center",
             "content_order": "second_first_third",
@@ -96,13 +105,13 @@
             "overlay_shadow": 10,
             "color_text": "#ffffff",
             "color_text_button": "#181818",
-            "color_background_button": "#FFFFFF",
-            "color_border_button": "#FFFFFF",
-            "content_overlay_color": "transparent",
+            "color_background_button": "#ffffff",
+            "color_border_button": "#ffffff",
+            "content_overlay_color": "rgba(0,0,0,0)",
             "content_overlay_opacity": 30,
             "content_overlay_width": 50,
             "content_overlay_height": 50,
-            "color_overlay": "#000",
+            "color_overlay": "#000000",
             "overlay_opacity": 30
           }
         }
@@ -125,8 +134,8 @@
           "type": "slide",
           "settings": {
             "link": "",
-            "heading": "<p>Heading</p>",
-            "subheading": "<p>Use this section to make a bold statement</p>",
+            "heading": "<p>Heading<\/p>",
+            "subheading": "<p>Use this section to make a bold statement<\/p>",
             "shop_text": "Learn more",
             "alignment": "center_center",
             "content_order": "second_first_third",
@@ -135,13 +144,13 @@
             "overlay_shadow": 10,
             "color_text": "#ffffff",
             "color_text_button": "#181818",
-            "color_background_button": "#FFFFFF",
-            "color_border_button": "#FFFFFF",
-            "content_overlay_color": "transparent",
+            "color_background_button": "#ffffff",
+            "color_border_button": "#ffffff",
+            "content_overlay_color": "rgba(0,0,0,0)",
             "content_overlay_opacity": 30,
             "content_overlay_width": 50,
             "content_overlay_height": 50,
-            "color_overlay": "#000",
+            "color_overlay": "#000000",
             "overlay_opacity": 30
           }
         },
@@ -149,8 +158,8 @@
           "type": "slide",
           "settings": {
             "link": "",
-            "heading": "<p>Heading</p>",
-            "subheading": "<p>Use this section to make a bold statement</p>",
+            "heading": "<p>Heading<\/p>",
+            "subheading": "<p>Use this section to make a bold statement<\/p>",
             "shop_text": "Learn more",
             "alignment": "center_center",
             "content_order": "second_first_third",
@@ -159,13 +168,13 @@
             "overlay_shadow": 10,
             "color_text": "#ffffff",
             "color_text_button": "#181818",
-            "color_background_button": "#FFFFFF",
-            "color_border_button": "#FFFFFF",
-            "content_overlay_color": "transparent",
+            "color_background_button": "#ffffff",
+            "color_border_button": "#ffffff",
+            "content_overlay_color": "rgba(0,0,0,0)",
             "content_overlay_opacity": 30,
             "content_overlay_width": 50,
             "content_overlay_height": 50,
-            "color_overlay": "#000",
+            "color_overlay": "#000000",
             "overlay_opacity": 30
           }
         }
@@ -188,7 +197,6 @@
         "description": "Our hypoallergenic, washable, and reusable masks will keep you looking stylish while protecting you and your close ones.",
         "button_text": "SHOP MASKS",
         "button_link": "",
-        "image": "shopify://shop_images/kente-masks.jpg",
         "is_fullwidth": true,
         "reverse_order": false,
         "css_class": ""
@@ -214,7 +222,6 @@
         "description": "For a special unique touch, engrave your bracelet with a special message",
         "button_text": "PERSONALIZE",
         "button_link": "",
-        "image": "shopify://shop_images/name_1.jpg",
         "is_fullwidth": false,
         "reverse_order": true,
         "css_class": ""
@@ -240,8 +247,8 @@
           "type": "slide",
           "settings": {
             "link": "",
-            "heading": "<p>Heading</p>",
-            "subheading": "<p>Use this section to make a bold statement</p>",
+            "heading": "<p>Heading<\/p>",
+            "subheading": "<p>Use this section to make a bold statement<\/p>",
             "shop_text": "Learn more",
             "alignment": "center_center",
             "content_order": "second_first_third",
@@ -250,13 +257,13 @@
             "overlay_shadow": 10,
             "color_text": "#ffffff",
             "color_text_button": "#181818",
-            "color_background_button": "#FFFFFF",
-            "color_border_button": "#FFFFFF",
-            "content_overlay_color": "transparent",
+            "color_background_button": "#ffffff",
+            "color_border_button": "#ffffff",
+            "content_overlay_color": "rgba(0,0,0,0)",
             "content_overlay_opacity": 30,
             "content_overlay_width": 50,
             "content_overlay_height": 50,
-            "color_overlay": "#000",
+            "color_overlay": "#000000",
             "overlay_opacity": 30
           }
         },
@@ -264,8 +271,8 @@
           "type": "slide",
           "settings": {
             "link": "",
-            "heading": "<p>Heading</p>",
-            "subheading": "<p>Use this section to make a bold statement</p>",
+            "heading": "<p>Heading<\/p>",
+            "subheading": "<p>Use this section to make a bold statement<\/p>",
             "shop_text": "Learn more",
             "alignment": "center_center",
             "content_order": "second_first_third",
@@ -274,13 +281,13 @@
             "overlay_shadow": 10,
             "color_text": "#ffffff",
             "color_text_button": "#181818",
-            "color_background_button": "#FFFFFF",
-            "color_border_button": "#FFFFFF",
-            "content_overlay_color": "transparent",
+            "color_background_button": "#ffffff",
+            "color_border_button": "#ffffff",
+            "content_overlay_color": "rgba(0,0,0,0)",
             "content_overlay_opacity": 30,
             "content_overlay_width": 50,
             "content_overlay_height": 50,
-            "color_overlay": "#000",
+            "color_overlay": "#000000",
             "overlay_opacity": 30
           }
         }
@@ -303,8 +310,8 @@
           "type": "slide",
           "settings": {
             "link": "",
-            "heading": "<p>Heading</p>",
-            "subheading": "<p>Use this section to make a bold statement</p>",
+            "heading": "<p>Heading<\/p>",
+            "subheading": "<p>Use this section to make a bold statement<\/p>",
             "shop_text": "Learn more",
             "alignment": "center_center",
             "content_order": "second_first_third",
@@ -313,13 +320,13 @@
             "overlay_shadow": 10,
             "color_text": "#ffffff",
             "color_text_button": "#181818",
-            "color_background_button": "#FFFFFF",
-            "color_border_button": "#FFFFFF",
-            "content_overlay_color": "transparent",
+            "color_background_button": "#ffffff",
+            "color_border_button": "#ffffff",
+            "content_overlay_color": "rgba(0,0,0,0)",
             "content_overlay_opacity": 30,
             "content_overlay_width": 50,
             "content_overlay_height": 50,
-            "color_overlay": "#000",
+            "color_overlay": "#000000",
             "overlay_opacity": 30
           }
         },
@@ -327,8 +334,8 @@
           "type": "slide",
           "settings": {
             "link": "",
-            "heading": "<p>Heading</p>",
-            "subheading": "<p>Use this section to make a bold statement</p>",
+            "heading": "<p>Heading<\/p>",
+            "subheading": "<p>Use this section to make a bold statement<\/p>",
             "shop_text": "Learn more",
             "alignment": "center_center",
             "content_order": "second_first_third",
@@ -337,13 +344,13 @@
             "overlay_shadow": 10,
             "color_text": "#ffffff",
             "color_text_button": "#181818",
-            "color_background_button": "#FFFFFF",
-            "color_border_button": "#FFFFFF",
-            "content_overlay_color": "transparent",
+            "color_background_button": "#ffffff",
+            "color_border_button": "#ffffff",
+            "content_overlay_color": "rgba(0,0,0,0)",
             "content_overlay_opacity": 30,
             "content_overlay_width": 50,
             "content_overlay_height": 50,
-            "color_overlay": "#000",
+            "color_overlay": "#000000",
             "overlay_opacity": 30
           }
         }
@@ -361,7 +368,6 @@
     },
     "video-hero": {
       "type": "video-hero",
-      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -375,13 +381,13 @@
           "type": "button",
           "settings": {
             "link_text": "ENTER",
-            "link": "shopify://collections/starlite"
+            "link": "shopify:\/\/collections\/starlite"
           }
         },
         "ab9f8df0-7c58-4ac8-b873-72bc526afbc5": {
           "type": "subheading",
           "settings": {
-            "subheading": "<p>SIGN UP TO NEWSLETTER AND TAKE ADVANTAGE NOW</p>",
+            "subheading": "<p>SIGN UP TO NEWSLETTER AND TAKE ADVANTAGE NOW<\/p>",
             "text_max_width": 40
           }
         }
@@ -391,10 +397,11 @@
         "button",
         "ab9f8df0-7c58-4ac8-b873-72bc526afbc5"
       ],
+      "disabled": true,
       "settings": {
         "desktop_height": 60,
         "mobile_height": 50,
-        "video_url": "https://cdn.shopify.com/s/files/1/0592/3494/3165/files/Untitled_Instagram_Post_1.mp4?v=1641845400",
+        "video_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0592\/3494\/3165\/files\/Untitled_Instagram_Post_1.mp4?v=1641845400",
         "alignment": "center_top",
         "content_order": "second_first_third",
         "content_overlay_width": 70,
@@ -417,8 +424,8 @@
           "type": "slide",
           "settings": {
             "link": "",
-            "heading": "<p>Heading</p>",
-            "subheading": "<p>Use this section to make a bold statement</p>",
+            "heading": "<p>Heading<\/p>",
+            "subheading": "<p>Use this section to make a bold statement<\/p>",
             "shop_text": "Learn more",
             "alignment": "center_center",
             "content_order": "second_first_third",
@@ -427,13 +434,13 @@
             "overlay_shadow": 10,
             "color_text": "#ffffff",
             "color_text_button": "#181818",
-            "color_background_button": "#FFFFFF",
-            "color_border_button": "#FFFFFF",
-            "content_overlay_color": "transparent",
+            "color_background_button": "#ffffff",
+            "color_border_button": "#ffffff",
+            "content_overlay_color": "rgba(0,0,0,0)",
             "content_overlay_opacity": 30,
             "content_overlay_width": 50,
             "content_overlay_height": 50,
-            "color_overlay": "#000",
+            "color_overlay": "#000000",
             "overlay_opacity": 30
           }
         },
@@ -441,8 +448,8 @@
           "type": "slide",
           "settings": {
             "link": "",
-            "heading": "<p>Heading</p>",
-            "subheading": "<p>Use this section to make a bold statement</p>",
+            "heading": "<p>Heading<\/p>",
+            "subheading": "<p>Use this section to make a bold statement<\/p>",
             "shop_text": "Learn more",
             "alignment": "center_center",
             "content_order": "second_first_third",
@@ -451,13 +458,13 @@
             "overlay_shadow": 10,
             "color_text": "#ffffff",
             "color_text_button": "#181818",
-            "color_background_button": "#FFFFFF",
-            "color_border_button": "#FFFFFF",
-            "content_overlay_color": "transparent",
+            "color_background_button": "#ffffff",
+            "color_border_button": "#ffffff",
+            "content_overlay_color": "rgba(0,0,0,0)",
             "content_overlay_opacity": 30,
             "content_overlay_width": 50,
             "content_overlay_height": 50,
-            "color_overlay": "#000",
+            "color_overlay": "#000000",
             "overlay_opacity": 30
           }
         }
@@ -480,8 +487,8 @@
           "type": "slide",
           "settings": {
             "link": "",
-            "heading": "<p>Heading</p>",
-            "subheading": "<p>Use this section to make a bold statement</p>",
+            "heading": "<p>Heading<\/p>",
+            "subheading": "<p>Use this section to make a bold statement<\/p>",
             "shop_text": "Learn more",
             "alignment": "center_center",
             "content_order": "second_first_third",
@@ -490,13 +497,13 @@
             "overlay_shadow": 10,
             "color_text": "#ffffff",
             "color_text_button": "#181818",
-            "color_background_button": "#FFFFFF",
-            "color_border_button": "#FFFFFF",
-            "content_overlay_color": "transparent",
+            "color_background_button": "#ffffff",
+            "color_border_button": "#ffffff",
+            "content_overlay_color": "rgba(0,0,0,0)",
             "content_overlay_opacity": 30,
             "content_overlay_width": 50,
             "content_overlay_height": 50,
-            "color_overlay": "#000",
+            "color_overlay": "#000000",
             "overlay_opacity": 30
           }
         },
@@ -504,8 +511,8 @@
           "type": "slide",
           "settings": {
             "link": "",
-            "heading": "<p>Heading</p>",
-            "subheading": "<p>Use this section to make a bold statement</p>",
+            "heading": "<p>Heading<\/p>",
+            "subheading": "<p>Use this section to make a bold statement<\/p>",
             "shop_text": "Learn more",
             "alignment": "center_center",
             "content_order": "second_first_third",
@@ -514,13 +521,13 @@
             "overlay_shadow": 10,
             "color_text": "#ffffff",
             "color_text_button": "#181818",
-            "color_background_button": "#FFFFFF",
-            "color_border_button": "#FFFFFF",
-            "content_overlay_color": "transparent",
+            "color_background_button": "#ffffff",
+            "color_border_button": "#ffffff",
+            "content_overlay_color": "rgba(0,0,0,0)",
             "content_overlay_opacity": 30,
             "content_overlay_width": 50,
             "content_overlay_height": 50,
-            "color_overlay": "#000",
+            "color_overlay": "#000000",
             "overlay_opacity": 30
           }
         }
