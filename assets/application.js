@@ -1,6 +1,6 @@
 // Put your application javascript here
 import React from 'react';
-import './App.css';
+
 
 function App() {
   return (
