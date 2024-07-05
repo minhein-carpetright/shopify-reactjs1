@@ -94,6 +94,9 @@ const Footer = (props) => {
         <h4 className={`footer__newsletter-subheading`}>
           {DATA.newsletter.subheading}
         </h4>
+        <h5 className={`footer__newsletter-subheading`}>
+          This is a test H5 line.
+        </h5>
         <input
           className={`footer__newsletter-input`}
           type='text'
