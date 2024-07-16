@@ -256,49 +256,49 @@
     "src": "frontend/assets/fonts/lexend/Lexend-Thin.woff2"
   },
   "frontend/assets/icons/arrow-right-1.svg": {
-    "file": "arrow-right-1-83de78ca.svg",
+    "file": "arrow-right-1-d0a83236.svg",
     "src": "frontend/assets/icons/arrow-right-1.svg"
   },
   "frontend/assets/icons/arrow-right-2.svg": {
-    "file": "arrow-right-2-cd91ace6.svg",
+    "file": "arrow-right-2-c45be4e1.svg",
     "src": "frontend/assets/icons/arrow-right-2.svg"
   },
   "frontend/assets/icons/facebook.svg": {
-    "file": "facebook-71a32a09.svg",
+    "file": "facebook-6288b6a7.svg",
     "src": "frontend/assets/icons/facebook.svg"
   },
   "frontend/assets/icons/instagram-outline.svg": {
-    "file": "instagram-outline-8edfb355.svg",
+    "file": "instagram-outline-2ac7c50f.svg",
     "src": "frontend/assets/icons/instagram-outline.svg"
   },
   "frontend/assets/icons/pinterest.svg": {
-    "file": "pinterest-4f0a1b55.svg",
+    "file": "pinterest-3bcbdbb6.svg",
     "src": "frontend/assets/icons/pinterest.svg"
   },
   "frontend/assets/icons/tiktok.svg": {
-    "file": "tiktok-3c3199b6.svg",
+    "file": "tiktok-42546f2b.svg",
     "src": "frontend/assets/icons/tiktok.svg"
   },
   "frontend/assets/icons/wolt.svg": {
-    "file": "wolt-411cd235.svg",
+    "file": "wolt-70002b4b.svg",
     "src": "frontend/assets/icons/wolt.svg"
   },
   "frontend/assets/icons/xotixdesigns.svg": {
-    "file": "xotixdesigns-cf4fcebe.svg",
+    "file": "xotixdesigns-ec1b83ea.svg",
     "src": "frontend/assets/icons/xotixdesigns.svg"
   },
   "frontend/entrypoints/index.jsx": {
     "assets": [
-      "xotixdesigns-cf4fcebe.svg",
-      "arrow-right-1-83de78ca.svg",
-      "arrow-right-2-cd91ace6.svg",
-      "facebook-71a32a09.svg",
-      "instagram-outline-8edfb355.svg",
-      "tiktok-3c3199b6.svg",
-      "pinterest-4f0a1b55.svg",
-      "wolt-411cd235.svg"
+      "xotixdesigns-ec1b83ea.svg",
+      "arrow-right-1-d0a83236.svg",
+      "arrow-right-2-c45be4e1.svg",
+      "facebook-6288b6a7.svg",
+      "instagram-outline-2ac7c50f.svg",
+      "tiktok-42546f2b.svg",
+      "pinterest-3bcbdbb6.svg",
+      "wolt-70002b4b.svg"
     ],
-    "file": "index-67b2a814.js",
+    "file": "index-c644ab01.js",
     "isEntry": true,
     "src": "frontend/entrypoints/index.jsx"
   },
