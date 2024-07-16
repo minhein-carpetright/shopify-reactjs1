@@ -15,7 +15,7 @@ import XotixSocial from '@components/XotixSocial';
 import Footer from '@components/Footer';
 
 const COMPONENTS = [
-  { $selector: '.cound-down__c', Component: Countdown },
+  { $selector: '.cound-down__c', Component: CountDown },
   { $selector: '.hello-world__c', Component: HelloWorld },
   { $selector: '.video-hero__cmp', Component: VideoHero },
   { $selector: '.featured-collection__cmp', Component: FeaturedCollection },
