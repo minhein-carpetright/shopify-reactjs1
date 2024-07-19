@@ -8,6 +8,7 @@ const HelloWorld = (props) => {
     <button onClick={() => setCount((count) => count + 1)}>
       Counter <output>{count}</output>
       <p>testing 123</p>
+      <p>testing 456</p>
     </button>
   );
 };
