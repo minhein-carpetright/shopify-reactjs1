@@ -7,8 +7,7 @@ const HelloWorld = (props) => {
   return (
     <button onClick={() => setCount((count) => count + 1)}>
       Counter <output>{count}</output>
-      <p>testing 123</p>
-      <p>testing 456</p>
+      <p>This is reactjs code</p>
     </button>
   );
 };
